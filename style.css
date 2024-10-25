@@ -8,10 +8,10 @@ html{
 	scroll-behavior: smooth;
 	
 	/* Variables For Storing Colors */
-	--primary-clr: #295a53;
-	--primary-medium-clr: #d8e9df;
+	--primary-clr: #008080;
+	--primary-medium-clr: #e9dbd8;
 	--primary-light-clr: #edfaf1;
-	--bg-clr-1: #ffffff;
+	--bg-clr-1: #aa1515;
 	--dark-heading-clr: #232d39;
 	--dark-text-clr: #6c757d;
 	--light-heading-clr: #efefef;
@@ -335,7 +335,7 @@ section.home{
 	text-align: center;
 }
 .states .courses-ratings span:nth-child(1) i{
-	color: gold;
+	color: rgb(255, 255, 0);
 	font-size: 14px;
 }
 .states .courses-ratings span:nth-child(2){
